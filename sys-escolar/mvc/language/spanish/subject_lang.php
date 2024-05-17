@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "Tema";
+$lang['add_title'] = "Agregar Un Tema";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "Nombre De La Clase";
+$lang['subject_teacher_name'] = "Nombre Del Docente";
+$lang['subject_student'] = "Estudiante";
+$lang['subject_name'] = "Nombre Del Tema";
+$lang['subject_author'] = "Asunto Autor";
+$lang['subject_code'] = "Código De Asunto";
+$lang['subject_teacher'] = "Docente";
+$lang['subject_classes'] = "Clase";
+$lang['subject_type'] = "Tipo";
+$lang['subject_optional'] = "Opcional";
+$lang['subject_mandatory'] = "Obligatorio";
+$lang['subject_passmark'] = "Promedio de aprobación";
+$lang['subject_finalmark'] = "Promedio de calificación";
+$lang['subject_select_class'] = "Seleccionar Clase";
+$lang['subject_select_type'] = "Seleccione Tipo";
+$lang['subject_select_classes'] = "Seleccionar Clase";
+$lang['subject_select_teacher'] = "Seleccionar Maestro";
+$lang['subject_select_student'] = "Seleccionar Estudiante";
+$lang['action'] = "Acción";
+$lang['view'] = "Ver";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Borrar";
+$lang['add_subject'] = "Agregar Tema";
+$lang['update_subject'] = "Actualizar Asunto";

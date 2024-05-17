@@ -1,0 +1,7 @@
+Este archivo debe estar presente durante la instalación
+
+Para reiniciar la instalación crear el archivo:
+
+"INSTALL_LESSON" (sin extensión) en carpeta raíz e ingresar a:
+
+http://ejemplo.com/instalar

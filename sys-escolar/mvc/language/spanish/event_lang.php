@@ -1,0 +1,36 @@
+<?php
+
+$lang['panel_title'] = "Evento";
+$lang['add_title'] = "Agregar Un Evento";
+$lang['slno'] = "#";
+$lang['event_title'] = "Título";
+$lang['event_details'] = "Detalles";
+$lang['event_header'] = "Detalles Del Evento";
+$lang['event_date'] = "Fecha";
+$lang['event_fdate'] = "Partir De La Fecha";
+$lang['event_tdate'] = "Hasta La Fecha";
+$lang['event_photo'] = "Foto";
+$lang['event_name'] = "Nombre";
+$lang['event_user'] = "Usuario";
+$lang['action'] = "Acción";
+$lang['event_clear'] = "Claro";
+$lang['event_file_browse'] = "Archivo De Búsqueda";
+$lang['view'] = "Ver";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Borrar";
+$lang['print'] = "Impresión";
+$lang['pdf_preview'] = "Vista Previa De Pdf";
+$lang["mail"] = "Enviar Pdf Al Correo";
+$lang['going'] = "Me interesa";
+$lang['ignore'] = "Ignorar";
+$lang['add_class'] = "Agregar Evento";
+$lang['update_class'] = "Actualizar Evento";
+$lang['to'] = "A";
+$lang['subject'] = "Tema";
+$lang['message'] = "Mensaje";
+$lang['send'] = "Enviar";
+$lang['mail_to'] = "El Campo Para Es Obligatorio.";
+$lang['mail_valid'] = "El Campo Para Debe Contener Una Dirección De Correo Electrónico Válida.";
+$lang['mail_subject'] = "El Campo Asunto Es Obligatorio.";
+$lang['mail_success'] = "Correo Electrónico Enviado Correctamente";
+$lang['mail_error'] = "Oops! Error al enviar Email!";

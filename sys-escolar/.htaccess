@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets|uploads|robots|\.txt)
+RewriteRule ^(.*)$ /sistemas/sys-escolar/index.php?/$1 [L,QSA]
+
